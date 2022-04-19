@@ -9,7 +9,7 @@
   "name": "linterstest",
   "description": "'Linters test'",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "abab": "^2.0.6",
     "abbrev": "^1.1.1",
